@@ -1,69 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+## Hi there 👋<br><br>I'm Vedant, a Data Analyst with a background in Business Analytics.<br><br>I build data projects using **SQL, Python, and analytics engineering tools** to analyse real-world datasets and generate insights. My current interests include **payments infrastructure, aviation analytics, and financial data systems**.<br><br>This GitHub repository serves as a portfolio of my **data projects, experiments, and learning journey in analytics and data engineering**.<br><br>## 🌍 Connect With Me<br><br>- LinkedIn: [www.linkedin.com/in/vedant-limaye](https://www.linkedin.com/in/vedant-limaye-9b55b6226/)<br>- Email: vedant.limaye12@gmail.com<br><br>Always happy to discuss data analytics, product insights, interesting data problems, or potential collaboration and contract opportunities.<br><br>## 📊 Projects<br><br>Here are some of the projects where I explore real-world analytics problems and build end-to-end data workflows.<br><br>- **Payments Analytics Platform**  <br>  Building an analytics pipeline to analyse transaction data, payment performance, and revenue trends.<br><br>- **Aviation Delay Analytics**  <br>  Analysing flight operations data to identify delay patterns and operational bottlenecks.<br><br>- **Customer Lifecycle Analytics**  <br>  Exploring user acquisition, retention, and churn patterns using SQL and Python.<br><br>- **Revenue Forecasting System**  <br>  Applying time-series modelling to forecast business performance and detect anomalies.<br><br>## 🛠 Skills<br><br>**Languages & Tools**<br><br>- SQL<br>- Python (Pandas, NumPy, Matplotlib)<br>- Power BI<br>- Advanced Excel<br><br>**Data & Analytics**<br><br>- Data Analysis & Visualisation<br>- KPI and Business Performance Analytics<br>- Data Modelling & Transformation<br>- Statistical Analysis & Hypothesis Testing<br>- Dashboard Development<br>- Data Validation & Governance<br><br>## 🚀 Currently Learning<br><br>- Building analytics pipelines using **dbt-style data modelling**<br>- Designing **product experimentation and A/B testing frameworks**<br>- Applying **predictive modelling and statistical analysis** to business datasets<br>- Improving **data engineering workflows using Python and SQL**<br>
 
-I'm Vedant, a Data Analyst with a background in Business Analytics.
 
-I build data projects using **SQL, Python, and analytics engineering tools** to analyse real-world datasets and generate insights. My current interests include **payments infrastructure, aviation analytics, and financial data systems**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-limaye-9b55b6226/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedant.limaye12@gmail.com) 
 
-This GitHub repository serves as a portfolio of my **data projects, experiments, and learning journey in analytics and data engineering**.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vedantl39&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vedantl39&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantl39&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌍 Connect With Me
+---
+[![](https://visitcount.itsvg.in/api?id=Vedantl39&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- LinkedIn: [www.linkedin.com/in/vedant-limaye](https://www.linkedin.com/in/vedant-limaye-9b55b6226/)
-- Email: vedant.limaye12@gmail.com
-
-Always happy to discuss data analytics, product insights, interesting data problems, or potential collaboration and contract opportunities.
-
-## 📊 Projects
-
-Here are some of the projects where I explore real-world analytics problems and build end-to-end data workflows.
-
-- **Payments Analytics Platform**  
-  Building an analytics pipeline to analyse transaction data, payment performance, and revenue trends.
-
-- **Aviation Delay Analytics**  
-  Analysing flight operations data to identify delay patterns and operational bottlenecks.
-
-- **Customer Lifecycle Analytics**  
-  Exploring user acquisition, retention, and churn patterns using SQL and Python.
-
-- **Revenue Forecasting System**  
-  Applying time-series modelling to forecast business performance and detect anomalies.
-
-## 🛠 Skills
-
-**Languages & Tools**
-
-- SQL
-- Python (Pandas, NumPy, Matplotlib)
-- Power BI
-- Advanced Excel
-
-**Data & Analytics**
-
-- Data Analysis & Visualisation
-- KPI and Business Performance Analytics
-- Data Modelling & Transformation
-- Statistical Analysis & Hypothesis Testing
-- Dashboard Development
-- Data Validation & Governance
-
-## 🚀 Currently Learning
-
-- Building analytics pipelines using **dbt-style data modelling**
-- Designing **product experimentation and A/B testing frameworks**
-- Applying **predictive modelling and statistical analysis** to business datasets
-- Improving **data engineering workflows using Python and SQL**
-<!--
-**Vedantl39/Vedantl39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
