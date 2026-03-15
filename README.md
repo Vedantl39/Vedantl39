@@ -1,4 +1,4 @@
-# 💫 About Me:
+### About Me:
 ## Hi there 👋<br><br>
 I'm Vedant, a Data Analyst with a background in Business Analytics.<br><br>I build data projects using **SQL, Python, and analytics engineering tools** to analyse real-world datasets and generate insights. My current interests include **payments infrastructure, aviation analytics, and financial data systems**.<br><br>This GitHub repository serves as a portfolio of my **data projects, experiments, and learning journey in analytics and data engineering**.<br><br>
 ### 🌍 Connect With Me<br><br>- LinkedIn: [www.linkedin.com/in/vedant-limaye](https://www.linkedin.com/in/vedant-limaye-9b55b6226/)<br>- Email: vedant.limaye12@gmail.com<br><br>Always happy to discuss data analytics, product insights, interesting data problems, or potential collaboration and contract opportunities.<br><br>
