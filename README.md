@@ -8,7 +8,7 @@ This GitHub repository serves as a portfolio of my **data projects, experiments,
 
 ## 🌍 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/vedant-limaye
+- LinkedIn: [www.linkedin.com/in/vedant-limaye](https://www.linkedin.com/in/vedant-limaye-9b55b6226/)
 - Email: vedant.limaye12@gmail.com
 
 Always happy to discuss data analytics, product insights, interesting data problems, or potential collaboration and contract opportunities.
