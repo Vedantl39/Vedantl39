@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Vedant, a Data Analyst with a background in Business Analytics.
+
+I build data projects using **SQL, Python, and analytics engineering tools** to analyse real-world datasets and generate insights. My current interests include **payments infrastructure, aviation analytics, and financial data systems**.
+
+This GitHub repository serves as a portfolio of my **data projects, experiments, and learning journey in analytics and data engineering**.
+
 <!--
 **Vedantl39/Vedantl39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
