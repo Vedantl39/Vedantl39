@@ -6,6 +6,13 @@ I build data projects using **SQL, Python, and analytics engineering tools** to 
 
 This GitHub repository serves as a portfolio of my **data projects, experiments, and learning journey in analytics and data engineering**.
 
+## 🌍 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/vedant-limaye
+- Email: vedant.limaye12@gmail.com
+
+Always happy to discuss data analytics, product insights, interesting data problems, or potential collaboration and contract opportunities.
+
 ## 📊 Projects
 
 Here are some of the projects where I explore real-world analytics problems and build end-to-end data workflows.
@@ -21,6 +28,31 @@ Here are some of the projects where I explore real-world analytics problems and 
 
 - **Revenue Forecasting System**  
   Applying time-series modelling to forecast business performance and detect anomalies.
+
+## 🛠 Skills
+
+**Languages & Tools**
+
+- SQL
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI
+- Advanced Excel
+
+**Data & Analytics**
+
+- Data Analysis & Visualisation
+- KPI and Business Performance Analytics
+- Data Modelling & Transformation
+- Statistical Analysis & Hypothesis Testing
+- Dashboard Development
+- Data Validation & Governance
+
+## 🚀 Currently Learning
+
+- Building analytics pipelines using **dbt-style data modelling**
+- Designing **product experimentation and A/B testing frameworks**
+- Applying **predictive modelling and statistical analysis** to business datasets
+- Improving **data engineering workflows using Python and SQL**
 <!--
 **Vedantl39/Vedantl39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
